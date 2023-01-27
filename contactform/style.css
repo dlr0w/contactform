@@ -1,0 +1,44 @@
+body {font-family: "Hiragino Kaku Gothic", "メイリオ","sans-serif";
+    
+}
+
+h2 {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-left: 4px solid red;
+    background-color: #f1f1f1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 2px solid #ebebeb;
+    border-radius: 10px;
+}
+
+form div{
+    padding: 15px;
+    padding-top: 0px;
+}
+form p {
+    margin-bottom: 0px;
+}
+
+.text, .pulldown{
+    margin-top: 0px;
+
+}
+
+.sumbit {
+    border: 1px solid lightgray;
+    border-bottom: 2px solid gray;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    color: white;
+}
